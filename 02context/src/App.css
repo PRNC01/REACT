@@ -1,0 +1,11 @@
+@import "tailwindcss";
+.light{
+    background-color: white;
+    color: black;
+    & h5{
+        color: black;
+    }
+    & span{
+        color: black;
+    }
+}
